@@ -1,0 +1,9 @@
+#!/bin/tcsh
+
+if($# < 1) then
+    echo "Создание заготовки программы, использующей библиотеку Gtk+"
+    echo "Usage: gtktpl имя_создаваемого_файла"
+    exit 1
+endif
+
+cp ~/bin/FileTemplates/gtktemplate.c $1

@@ -1,0 +1,11 @@
+#!/bin/tcsh
+
+if($# < 1) then
+    echo "Создание пустого проекта программы, использующей библиотеку Qt"
+    echo "Usage: qttpl имя_создаваемго_каталога"
+    exit 1
+endif
+	    
+
+cp -R ~/bin/FileTemplates/QtFormTemplate $1
+

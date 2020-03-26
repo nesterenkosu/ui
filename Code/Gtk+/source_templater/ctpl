@@ -1,0 +1,16 @@
+#!/bin/tcsh
+
+set cwd = `basename $0`
+set cwd = `which $cwd`
+set cwd = `dirname $cwd`
+
+echo $cwd
+
+#Создание файла исходного кода на основе шаблона
+if($# < 1) then
+    echo "Создание заготовки программы на языке C"
+    echo "Usage: ctpl имя_создаваемого_файла"
+    exit 1
+endif
+
+cp "$cwd/FileTemplates/ctemplate.c" $1
