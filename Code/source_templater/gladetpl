@@ -1,0 +1,10 @@
+#!/bin/tcsh
+
+if($# < 1) then
+    echo "Создание заготовки программы, использующей библиотеку GTK"
+    echo "и графический построитель интерфейса Glade"
+    echo "Usage: gladetpl имя_создаваемого_файла"
+    exit 1
+endif
+
+cp ~/bin/FileTemplates/gladetemplate.c $1

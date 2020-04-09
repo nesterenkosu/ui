@@ -1,0 +1,18 @@
+#!/bin/tcsh
+
+if($# < 1) then
+    echo "Создание пустого проекта программы, использующей библиотеку Gtk"
+    echo "и отлаживаемого в IDE QtCreator."
+    echo "Usage: gtkidetpl имя_создаваемго_каталога"
+    exit 1
+endif
+	    
+
+set cwd = `basename $0`
+set cwd = `which $cwd`
+set cwd = `dirname $cwd`
+
+cp -R "$cwd/FileTemplates/GtkIdeTemplate" $1
+set bd = `cd $1;pwd`
+set ekr = `echo $bd | sed -e 's/\//\\\//g'`
+cat "$cwd/FileTemplates/GtkIdeTemplate/MyGtkAndGladeProject.creator.user" | sed -e "s/Direktoria/$ekr/g" > "$1/MyGtkAndGladeProject.creator.user"
