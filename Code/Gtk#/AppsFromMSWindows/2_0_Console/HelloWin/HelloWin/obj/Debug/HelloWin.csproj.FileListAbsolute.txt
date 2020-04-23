@@ -1,0 +1,5 @@
+G:\Lect4\Windows\2_0_Console\HelloWin\HelloWin\bin\Debug\HelloWin.exe
+G:\Lect4\Windows\2_0_Console\HelloWin\HelloWin\bin\Debug\HelloWin.pdb
+G:\Lect4\Windows\2_0_Console\HelloWin\HelloWin\obj\Debug\HelloWin.csprojResolveAssemblyReference.cache
+G:\Lect4\Windows\2_0_Console\HelloWin\HelloWin\obj\Debug\HelloWin.exe
+G:\Lect4\Windows\2_0_Console\HelloWin\HelloWin\obj\Debug\HelloWin.pdb

@@ -1,0 +1,10 @@
+G:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\bin\Debug\HelloWinForms.exe
+G:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\bin\Debug\HelloWinForms.pdb
+G:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\obj\Debug\HelloWinForms.csprojResolveAssemblyReference.cache
+G:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\obj\Debug\HelloWinForms.Form1.resources
+G:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\obj\Debug\HelloWinForms.Properties.Resources.resources
+G:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\obj\Debug\HelloWinForms.csproj.GenerateResource.Cache
+G:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\obj\Debug\HelloWinForms.exe
+G:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\obj\Debug\HelloWinForms.pdb
+Q:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\obj\Debug\HelloWinForms.exe
+Q:\Lect4\Windows\2_0_WinForms\HelloWinForms\HelloWinForms\obj\Debug\HelloWinForms.pdb

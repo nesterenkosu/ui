@@ -1,0 +1,8 @@
+G:\Lect4\Windows\Player\Player\bin\Debug\Player.exe
+G:\Lect4\Windows\Player\Player\bin\Debug\Player.pdb
+G:\Lect4\Windows\Player\Player\obj\Debug\Player.csprojResolveAssemblyReference.cache
+G:\Lect4\Windows\Player\Player\obj\Debug\Player.Form1.resources
+G:\Lect4\Windows\Player\Player\obj\Debug\Player.Properties.Resources.resources
+G:\Lect4\Windows\Player\Player\obj\Debug\Player.csproj.GenerateResource.Cache
+G:\Lect4\Windows\Player\Player\obj\Debug\Player.exe
+G:\Lect4\Windows\Player\Player\obj\Debug\Player.pdb
