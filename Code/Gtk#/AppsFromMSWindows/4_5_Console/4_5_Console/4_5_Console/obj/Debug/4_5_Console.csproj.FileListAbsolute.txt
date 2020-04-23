@@ -1,0 +1,6 @@
+G:\Lect4\Windows\4_5_Console\4_5_Console\4_5_Console\bin\Debug\4_5_Console.exe.config
+G:\Lect4\Windows\4_5_Console\4_5_Console\4_5_Console\bin\Debug\4_5_Console.exe
+G:\Lect4\Windows\4_5_Console\4_5_Console\4_5_Console\bin\Debug\4_5_Console.pdb
+G:\Lect4\Windows\4_5_Console\4_5_Console\4_5_Console\obj\Debug\4_5_Console.csprojResolveAssemblyReference.cache
+G:\Lect4\Windows\4_5_Console\4_5_Console\4_5_Console\obj\Debug\4_5_Console.exe
+G:\Lect4\Windows\4_5_Console\4_5_Console\4_5_Console\obj\Debug\4_5_Console.pdb
